@@ -1,5 +1,2 @@
 # Netflix-Website-Project
-this is a html css website project
-This is a website which i fuckin created for fun and for faking the madafucking Netflix Website
-Fuck the shoits
-HellYeah  !!
+This project is a website created for fun, designed to mimic the appearance and functionality of the Netflix website. It showcases the capabilities of HTML and CSS in creating visually appealing and user-friendly web pages.
